@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567154732053",
+    "project_id": "signin-e3c71",
+    "storage_bucket": "signin-e3c71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567154732053:android:8cc09e3dc90f788936721c",
+        "android_client_info": {
+          "package_name": "com.example.investment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567154732053-tgcgvf7lq5mtmoo2ufibbu8p9ur5uenq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4U3dpA3_UKWP3WNxpNZYXDoXMmcza8WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567154732053-tgcgvf7lq5mtmoo2ufibbu8p9ur5uenq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
